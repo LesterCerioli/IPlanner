@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\Repositorios\\Reppos\\LPApp\\Fonts\\IPlanner\\IPlanner.Domain\\IPlanner.Domain.csproj": {}
+    "Z:\\Repositorios\\GitHub\\IPlanner\\Fonts\\IPlanner\\IPlanner.Domain\\IPlanner.Domain.csproj": {}
   },
   "projects": {
-    "Z:\\Repositorios\\Reppos\\LPApp\\Fonts\\IPlanner\\IPlanner.Domain\\IPlanner.Domain.csproj": {
+    "Z:\\Repositorios\\GitHub\\IPlanner\\Fonts\\IPlanner\\IPlanner.Domain\\IPlanner.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\Repositorios\\Reppos\\LPApp\\Fonts\\IPlanner\\IPlanner.Domain\\IPlanner.Domain.csproj",
+        "projectUniqueName": "Z:\\Repositorios\\GitHub\\IPlanner\\Fonts\\IPlanner\\IPlanner.Domain\\IPlanner.Domain.csproj",
         "projectName": "IPlanner.Domain",
-        "projectPath": "Z:\\Repositorios\\Reppos\\LPApp\\Fonts\\IPlanner\\IPlanner.Domain\\IPlanner.Domain.csproj",
+        "projectPath": "Z:\\Repositorios\\GitHub\\IPlanner\\Fonts\\IPlanner\\IPlanner.Domain\\IPlanner.Domain.csproj",
         "packagesPath": "C:\\Users\\leste\\.nuget\\packages\\",
-        "outputPath": "Z:\\Repositorios\\Reppos\\LPApp\\Fonts\\IPlanner\\IPlanner.Domain\\obj\\",
+        "outputPath": "Z:\\Repositorios\\GitHub\\IPlanner\\Fonts\\IPlanner\\IPlanner.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\Repositorios\\Reppos\\LPApp\\Fonts\\IPlanner\\IPlanner.Repository\\IPlanner.Repository.csproj",
+      "projectUniqueName": "Z:\\Repositorios\\GitHub\\IPlanner\\Fonts\\IPlanner\\IPlanner.Repository\\IPlanner.Repository.csproj",
       "projectName": "IPlanner.Repository",
-      "projectPath": "Z:\\Repositorios\\Reppos\\LPApp\\Fonts\\IPlanner\\IPlanner.Repository\\IPlanner.Repository.csproj",
+      "projectPath": "Z:\\Repositorios\\GitHub\\IPlanner\\Fonts\\IPlanner\\IPlanner.Repository\\IPlanner.Repository.csproj",
       "packagesPath": "C:\\Users\\leste\\.nuget\\packages\\",
-      "outputPath": "Z:\\Repositorios\\Reppos\\LPApp\\Fonts\\IPlanner\\IPlanner.Repository\\obj\\",
+      "outputPath": "Z:\\Repositorios\\GitHub\\IPlanner\\Fonts\\IPlanner\\IPlanner.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
