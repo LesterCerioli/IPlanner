@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\Repositorios\\Reppos\\LPApp\\Fonts\\IPlanner\\IPlanner.API\\IPlanner.API.fsproj": {}
+    "Z:\\Repositorios\\GitHub\\IPlanner\\Fonts\\IPlanner\\IPlanner.API\\IPlanner.API.fsproj": {}
   },
   "projects": {
-    "Z:\\Repositorios\\Reppos\\LPApp\\Fonts\\IPlanner\\IPlanner.API\\IPlanner.API.fsproj": {
+    "Z:\\Repositorios\\GitHub\\IPlanner\\Fonts\\IPlanner\\IPlanner.API\\IPlanner.API.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\Repositorios\\Reppos\\LPApp\\Fonts\\IPlanner\\IPlanner.API\\IPlanner.API.fsproj",
+        "projectUniqueName": "Z:\\Repositorios\\GitHub\\IPlanner\\Fonts\\IPlanner\\IPlanner.API\\IPlanner.API.fsproj",
         "projectName": "IPlanner.API",
-        "projectPath": "Z:\\Repositorios\\Reppos\\LPApp\\Fonts\\IPlanner\\IPlanner.API\\IPlanner.API.fsproj",
+        "projectPath": "Z:\\Repositorios\\GitHub\\IPlanner\\Fonts\\IPlanner\\IPlanner.API\\IPlanner.API.fsproj",
         "packagesPath": "C:\\Users\\leste\\.nuget\\packages\\",
-        "outputPath": "Z:\\Repositorios\\Reppos\\LPApp\\Fonts\\IPlanner\\IPlanner.API\\obj\\",
+        "outputPath": "Z:\\Repositorios\\GitHub\\IPlanner\\Fonts\\IPlanner\\IPlanner.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
