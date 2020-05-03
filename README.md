@@ -60,7 +60,7 @@ um gerenciamento muito mais acertivo.
 Obs3: caso haja necessidade futura de migração de versão do NET Core para a “latest version”, não haverá problemas de compilação, já que o NET Core permite upgrade sem quebra de pacotes.
 
 
-
+<img src="https://hackernoon.com/hn-images/1*YVxaXqiIYskqPauNKZ2OSA.png">
 
 
 Project Documentation - LP 
