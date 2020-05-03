@@ -20,6 +20,12 @@ Implementação da abordagem REST FULL pois assim poderá futuramente permitir q
 Recomenda-se implementar uma arquitetura orientada a domínios com portabilidade para serviços e adaptável ao REST FULL ,uma vez, que o ”Super APP” possui uma arquitetura moldada e com presença de REST. O motivo e justificativa de se utilizar Rest Full se dá pelo motivo, caso necessário
 De implementar Web API’s diferentes de acordo com o desenvolvimento dos módulos.
 
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ-iJCR0lv0n_he0XAliDup0_AyBvhq8Ejj231k9OQLEPP6I6MK&usqp=CAU">
+
+
+
+
 Implementação de Endpoint que funcionará como HUB entre o LP e o Super App.
 
 Caso ocorra a necessidade de implementar um banco de dados isolado, este poderá possuir as tabelas necessárias e por meio de stored procedures, pode-se criar estratégias de “PUT” das tabelas para o banco de dados existente. Isto permite que não precise conectar diretamente ao banco e mesmo no DB do LP, usar-se-à validações de acordo com as regras de negócio, proporcionado maior Segurança e alta performance.
