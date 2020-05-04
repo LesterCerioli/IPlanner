@@ -21,6 +21,8 @@ Recomenda-se implementar uma arquitetura orientada a domínios com portabilidade
 De implementar Web API’s diferentes de acordo com o desenvolvimento dos módulos.
 
 
+
+<img src="https://i.ytimg.com/vi/EwNC0G_2Isc/maxresdefault.jpg">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ-iJCR0lv0n_he0XAliDup0_AyBvhq8Ejj231k9OQLEPP6I6MK&usqp=CAU">
 
 
