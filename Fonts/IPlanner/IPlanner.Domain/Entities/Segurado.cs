@@ -11,10 +11,11 @@ namespace IPlanner.Domain.Entities
         public string NomeMeio { get; set; }
         public string SobreNome { get; set; }
         public string Email { get; set; }
-        public string Idade { get; set; }
-        public int UsuarioId { get; set; }
-        public virtual Usurio Usuario { get; set; }
-
+        public string EnderecoCompleto { get; set; }
+        public string NumeroEndereco { get; set; }
+        public string Bairro { get; set; }
+        public int CidadeId { get; set; }
+        public virtual ICollection<Cidade> Cidades { get; set; }
 
 
         public override void Validate()
