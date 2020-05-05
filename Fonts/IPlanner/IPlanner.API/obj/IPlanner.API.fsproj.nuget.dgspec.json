@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\Repositorios\\GitHub\\IPlanner\\Fonts\\IPlanner\\IPlanner.API\\IPlanner.API.fsproj": {}
+    "C:\\Users\\lester_profarma\\Documents\\Repositories\\GitHub\\IPlanner\\Fonts\\IPlanner\\IPlanner.API\\IPlanner.API.fsproj": {}
   },
   "projects": {
-    "Z:\\Repositorios\\GitHub\\IPlanner\\Fonts\\IPlanner\\IPlanner.API\\IPlanner.API.fsproj": {
+    "C:\\Users\\lester_profarma\\Documents\\Repositories\\GitHub\\IPlanner\\Fonts\\IPlanner\\IPlanner.API\\IPlanner.API.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\Repositorios\\GitHub\\IPlanner\\Fonts\\IPlanner\\IPlanner.API\\IPlanner.API.fsproj",
+        "projectUniqueName": "C:\\Users\\lester_profarma\\Documents\\Repositories\\GitHub\\IPlanner\\Fonts\\IPlanner\\IPlanner.API\\IPlanner.API.fsproj",
         "projectName": "IPlanner.API",
-        "projectPath": "Z:\\Repositorios\\GitHub\\IPlanner\\Fonts\\IPlanner\\IPlanner.API\\IPlanner.API.fsproj",
-        "packagesPath": "C:\\Users\\leste\\.nuget\\packages\\",
-        "outputPath": "Z:\\Repositorios\\GitHub\\IPlanner\\Fonts\\IPlanner\\IPlanner.API\\obj\\",
+        "projectPath": "C:\\Users\\lester_profarma\\Documents\\Repositories\\GitHub\\IPlanner\\Fonts\\IPlanner\\IPlanner.API\\IPlanner.API.fsproj",
+        "packagesPath": "C:\\Users\\lester_profarma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lester_profarma\\Documents\\Repositories\\GitHub\\IPlanner\\Fonts\\IPlanner\\IPlanner.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\leste\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lester_profarma\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
