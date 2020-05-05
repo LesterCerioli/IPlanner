@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\Repositorios\\GitHub\\IPlanner\\Fonts\\IPlanner\\IPlanner.Repository\\IPlanner.Repository.csproj": {}
+    "C:\\Users\\lester_profarma\\Documents\\Repositories\\GitHub\\IPlanner\\Fonts\\IPlanner\\IPlanner.Repository\\IPlanner.Repository.csproj": {}
   },
   "projects": {
-    "Z:\\Repositorios\\GitHub\\IPlanner\\Fonts\\IPlanner\\IPlanner.Repository\\IPlanner.Repository.csproj": {
+    "C:\\Users\\lester_profarma\\Documents\\Repositories\\GitHub\\IPlanner\\Fonts\\IPlanner\\IPlanner.Repository\\IPlanner.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\Repositorios\\GitHub\\IPlanner\\Fonts\\IPlanner\\IPlanner.Repository\\IPlanner.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\lester_profarma\\Documents\\Repositories\\GitHub\\IPlanner\\Fonts\\IPlanner\\IPlanner.Repository\\IPlanner.Repository.csproj",
         "projectName": "IPlanner.Repository",
-        "projectPath": "Z:\\Repositorios\\GitHub\\IPlanner\\Fonts\\IPlanner\\IPlanner.Repository\\IPlanner.Repository.csproj",
-        "packagesPath": "C:\\Users\\leste\\.nuget\\packages\\",
-        "outputPath": "Z:\\Repositorios\\GitHub\\IPlanner\\Fonts\\IPlanner\\IPlanner.Repository\\obj\\",
+        "projectPath": "C:\\Users\\lester_profarma\\Documents\\Repositories\\GitHub\\IPlanner\\Fonts\\IPlanner\\IPlanner.Repository\\IPlanner.Repository.csproj",
+        "packagesPath": "C:\\Users\\lester_profarma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lester_profarma\\Documents\\Repositories\\GitHub\\IPlanner\\Fonts\\IPlanner\\IPlanner.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\leste\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lester_profarma\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -41,6 +41,30 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "LazyLoadPlugin": {
+              "target": "Package",
+              "version": "[1.8.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

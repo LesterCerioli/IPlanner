@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "IN1DJPqAGRCEcruudkdIGIC6miklLcNB73+jTE1pEx28/vOXiJL9Wo4UnrL37EvgRimlfRypllbRxis0yX9J5Q==",
+  "dgSpecHash": "ZW9Ae6lCeGvCTDfJCVqglUADw+fG/3lWfM6KFhh73AUKy853L6SW7mU1dgly0g6NDaMJ0WuHGcbw/AO4VnSe7A==",
   "success": true,
-  "projectFilePath": "Z:\\Repositorios\\GitHub\\IPlanner\\Fonts\\IPlanner\\IPlanner.API\\IPlanner.API.fsproj",
+  "projectFilePath": "C:\\Users\\lester_profarma\\Documents\\Repositories\\GitHub\\IPlanner\\Fonts\\IPlanner\\IPlanner.API\\IPlanner.API.fsproj",
   "expectedPackageFiles": [
-    "C:\\Users\\leste\\.nuget\\packages\\fsharp.core\\4.7.0\\fsharp.core.4.7.0.nupkg.sha512"
+    "C:\\Users\\lester_profarma\\.nuget\\packages\\fsharp.core\\4.7.0\\fsharp.core.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }

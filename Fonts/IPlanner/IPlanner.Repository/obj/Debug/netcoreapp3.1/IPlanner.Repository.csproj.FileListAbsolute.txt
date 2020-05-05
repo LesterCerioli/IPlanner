@@ -1,0 +1,12 @@
+C:\Users\lester_profarma\Documents\Repositories\GitHub\IPlanner\Fonts\IPlanner\IPlanner.Repository\bin\Debug\netcoreapp3.1\IPlanner.Repository.deps.json
+C:\Users\lester_profarma\Documents\Repositories\GitHub\IPlanner\Fonts\IPlanner\IPlanner.Repository\bin\Debug\netcoreapp3.1\IPlanner.Repository.dll
+C:\Users\lester_profarma\Documents\Repositories\GitHub\IPlanner\Fonts\IPlanner\IPlanner.Repository\obj\Debug\netcoreapp3.1\IPlanner.Repository.csprojAssemblyReference.cache
+C:\Users\lester_profarma\Documents\Repositories\GitHub\IPlanner\Fonts\IPlanner\IPlanner.Repository\obj\Debug\netcoreapp3.1\IPlanner.Repository.AssemblyInfoInputs.cache
+C:\Users\lester_profarma\Documents\Repositories\GitHub\IPlanner\Fonts\IPlanner\IPlanner.Repository\obj\Debug\netcoreapp3.1\IPlanner.Repository.AssemblyInfo.cs
+C:\Users\lester_profarma\Documents\Repositories\GitHub\IPlanner\Fonts\IPlanner\IPlanner.Repository\bin\Debug\netcoreapp3.1\IPlanner.Repository.runtimeconfig.json
+C:\Users\lester_profarma\Documents\Repositories\GitHub\IPlanner\Fonts\IPlanner\IPlanner.Repository\bin\Debug\netcoreapp3.1\IPlanner.Repository.runtimeconfig.dev.json
+C:\Users\lester_profarma\Documents\Repositories\GitHub\IPlanner\Fonts\IPlanner\IPlanner.Repository\obj\Debug\netcoreapp3.1\IPlanner.Repository.genruntimeconfig.cache
+C:\Users\lester_profarma\Documents\Repositories\GitHub\IPlanner\Fonts\IPlanner\IPlanner.Repository\bin\Debug\netcoreapp3.1\IPlanner.Repository.pdb
+C:\Users\lester_profarma\Documents\Repositories\GitHub\IPlanner\Fonts\IPlanner\IPlanner.Repository\obj\Debug\netcoreapp3.1\IPlanner.Repository.dll
+C:\Users\lester_profarma\Documents\Repositories\GitHub\IPlanner\Fonts\IPlanner\IPlanner.Repository\obj\Debug\netcoreapp3.1\IPlanner.Repository.pdb
+C:\Users\lester_profarma\Documents\Repositories\GitHub\IPlanner\Fonts\IPlanner\IPlanner.Repository\obj\Debug\netcoreapp3.1\IPlanner.Repository.csproj.CoreCompileInputs.cache
