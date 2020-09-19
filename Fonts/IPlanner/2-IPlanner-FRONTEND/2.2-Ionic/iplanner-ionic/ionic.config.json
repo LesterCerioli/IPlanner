@@ -1,0 +1,7 @@
+{
+  "name": "iplanner-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
