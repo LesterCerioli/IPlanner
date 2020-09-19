@@ -180,20 +180,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\diret\\.nuget\\packages\\": {}
+    "C:\\Users\\diret\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\diret\\repositories\\IPlanner\\Fonts\\IPlanner\\IPlanner-API\\IPlanner.Domain\\IPlanner.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\diret\\repositories\\IPlanner\\Fonts\\IPlanner\\1-IPlanner-API\\IPlanner.Domain\\IPlanner.Domain.csproj",
       "projectName": "IPlanner.Domain",
-      "projectPath": "C:\\Users\\diret\\repositories\\IPlanner\\Fonts\\IPlanner\\IPlanner-API\\IPlanner.Domain\\IPlanner.Domain.csproj",
+      "projectPath": "C:\\Users\\diret\\repositories\\IPlanner\\Fonts\\IPlanner\\1-IPlanner-API\\IPlanner.Domain\\IPlanner.Domain.csproj",
       "packagesPath": "C:\\Users\\diret\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\diret\\repositories\\IPlanner\\Fonts\\IPlanner\\IPlanner-API\\IPlanner.Domain\\obj\\",
+      "outputPath": "C:\\Users\\diret\\repositories\\IPlanner\\Fonts\\IPlanner\\1-IPlanner-API\\IPlanner.Domain\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
         "C:\\Users\\diret\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"

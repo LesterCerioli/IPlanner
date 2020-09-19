@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\diret\\repositories\\IPlanner\\Fonts\\IPlanner\\1-IPlanner-API\\IPlanner.Domain\\IPlanner.Domain.csproj": {}
+    "C:\\Users\\diret\\repositories\\IPlanner\\Fonts\\IPlanner\\1-IPlanner-API\\IPlanner.WebAPI\\IPlanner.WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\diret\\repositories\\IPlanner\\Fonts\\IPlanner\\1-IPlanner-API\\IPlanner.Domain\\IPlanner.Domain.csproj": {
+    "C:\\Users\\diret\\repositories\\IPlanner\\Fonts\\IPlanner\\1-IPlanner-API\\IPlanner.WebAPI\\IPlanner.WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\diret\\repositories\\IPlanner\\Fonts\\IPlanner\\1-IPlanner-API\\IPlanner.Domain\\IPlanner.Domain.csproj",
-        "projectName": "IPlanner.Domain",
-        "projectPath": "C:\\Users\\diret\\repositories\\IPlanner\\Fonts\\IPlanner\\1-IPlanner-API\\IPlanner.Domain\\IPlanner.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\diret\\repositories\\IPlanner\\Fonts\\IPlanner\\1-IPlanner-API\\IPlanner.WebAPI\\IPlanner.WebAPI.csproj",
+        "projectName": "IPlanner.WebAPI",
+        "projectPath": "C:\\Users\\diret\\repositories\\IPlanner\\Fonts\\IPlanner\\1-IPlanner-API\\IPlanner.WebAPI\\IPlanner.WebAPI.csproj",
         "packagesPath": "C:\\Users\\diret\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\diret\\repositories\\IPlanner\\Fonts\\IPlanner\\1-IPlanner-API\\IPlanner.Domain\\obj\\",
+        "outputPath": "C:\\Users\\diret\\repositories\\IPlanner\\Fonts\\IPlanner\\1-IPlanner-API\\IPlanner.WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -22,14 +22,14 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netstandard2.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netstandard2.0": {
+          "netcoreapp3.1": {
             "projectReferences": {}
           }
         },
@@ -40,15 +40,7 @@
         }
       },
       "frameworks": {
-        "netstandard2.0": {
-          "dependencies": {
-            "NETStandard.Library": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.0.3, )",
-              "autoReferenced": true
-            }
-          },
+        "netcoreapp3.1": {
           "imports": [
             "net461",
             "net462",
@@ -59,6 +51,14 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
