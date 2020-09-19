@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "qeC+vLezPuV3dYTgkl3ixdejADJGK7qsCWs5ChG/PU01G5xv6x28cDqh0j8XQ2jPU3/Z75z4/ivlOT7P41MxZw==",
+  "dgSpecHash": "PcuOBh605eDBuVTjV9WjAtFwPkmaI8VoKlWMcNC4XY5RyisMQQavoLRPY+iJKYQzpvCGU1vaBMVRTfSV1kvOgQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\diret\\repositories\\IPlanner\\Fonts\\IPlanner\\1-IPlanner-API\\IPlanner.Domain\\IPlanner.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\LesterCerioli\\IPlanner\\Fonts\\IPlanner\\1-IPlanner-API\\IPlanner.Domain\\IPlanner.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\diret\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\diret\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

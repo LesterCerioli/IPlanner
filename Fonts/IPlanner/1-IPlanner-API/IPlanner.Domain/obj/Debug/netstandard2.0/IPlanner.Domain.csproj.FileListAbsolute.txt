@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\LesterCerioli\IPlanner\Fonts\IPlanner\1-IPlanner-API\IPlanner.Domain\obj\Debug\netstandard2.0\IPlanner.Domain.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\LesterCerioli\IPlanner\Fonts\IPlanner\1-IPlanner-API\IPlanner.Domain\obj\Debug\netstandard2.0\IPlanner.Domain.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\LesterCerioli\IPlanner\Fonts\IPlanner\1-IPlanner-API\IPlanner.Domain\obj\Debug\netstandard2.0\IPlanner.Domain.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\LesterCerioli\IPlanner\Fonts\IPlanner\1-IPlanner-API\IPlanner.Domain\obj\Debug\netstandard2.0\IPlanner.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\LesterCerioli\IPlanner\Fonts\IPlanner\1-IPlanner-API\IPlanner.Domain\bin\Debug\netstandard2.0\IPlanner.Domain.deps.json
+C:\Users\Administrator\source\repos\LesterCerioli\IPlanner\Fonts\IPlanner\1-IPlanner-API\IPlanner.Domain\bin\Debug\netstandard2.0\IPlanner.Domain.dll
+C:\Users\Administrator\source\repos\LesterCerioli\IPlanner\Fonts\IPlanner\1-IPlanner-API\IPlanner.Domain\bin\Debug\netstandard2.0\IPlanner.Domain.pdb
+C:\Users\Administrator\source\repos\LesterCerioli\IPlanner\Fonts\IPlanner\1-IPlanner-API\IPlanner.Domain\obj\Debug\netstandard2.0\IPlanner.Domain.dll
+C:\Users\Administrator\source\repos\LesterCerioli\IPlanner\Fonts\IPlanner\1-IPlanner-API\IPlanner.Domain\obj\Debug\netstandard2.0\IPlanner.Domain.pdb

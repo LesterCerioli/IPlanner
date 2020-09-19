@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "mM8rOOVjRe5uINgeUlxjlzOn+WB9l4IACDV3xW2QfQ2cQXlYDz0gAPiJL+Ut9mLMCTP9HdN8JTYdoQI+ls1nrw==",
+  "dgSpecHash": "I+3mHN/AFQi4jWn9N7jEPJRjm2m9e4K7urfMp1PhTZHggaK1wtBneNc/6UDhnZjGHgDbLCzZJ5ykrc2mL0wU2w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\diret\\repositories\\IPlanner\\Fonts\\IPlanner\\3-IPlanner-WINDOWS-SERVICE\\IPlanner.BaselExport.Application\\IPlanner.BaselExport.Application.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\Source\\Repos\\LesterCerioli\\IPlanner\\Fonts\\IPlanner\\3-IPlanner-WINDOWS-SERVICE\\IPlanner.BaselExport.Application\\IPlanner.BaselExport.Application.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\diret\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\diret\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

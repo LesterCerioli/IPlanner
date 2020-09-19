@@ -1,3 +1,5 @@
+using System;
+
 namespace IPlanner.Domain.Entities.Plans
 {
     public class PlanEntity
@@ -10,6 +12,8 @@ namespace IPlanner.Domain.Entities.Plans
         }
 
         protected PlanEntity() {}
+        public Guid Id { get; set; }
+        
         public string Name {get; set;}
     }
 }
