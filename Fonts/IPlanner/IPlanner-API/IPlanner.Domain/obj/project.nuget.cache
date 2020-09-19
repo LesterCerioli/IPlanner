@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rjkQxIOuh19sSuQ0ZwzOOFdYWD6qBg5N0ahAi/QLMut9YGuwE1svNampqO6V3T1QsBXxCq2vgYnvGB4qqfZJpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\diret\\repositories\\IPlanner\\Fonts\\IPlanner\\IPlanner-API\\IPlanner.Domain\\IPlanner.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diret\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\diret\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
